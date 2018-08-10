@@ -1,4 +1,4 @@
-# horizontaltoolsbar
+# Horizontal toolsbar
 Horizantal , Draggble tools bar with sub menu
 
 An elegent and clean actions or tools bar that you can add to your web application . 
